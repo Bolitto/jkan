@@ -13,7 +13,7 @@ footer_title:
 footer_description:
   et: Avaandmete portaali sisustatakse Euroopa Liidu struktuuritoetuse toetusskeemist "Infoühiskonna teadlikkuse tõstmine", mida rahastab Euroopa Regionaalarengu Fond.
   en: The Open Data Portal's content is created as part of the EU structural funds' programme "Raising Public Awareness about the Information Society" financed through the EU Regional Development Fund.
-baseurl:
+baseurl: https://bolitto.github.io/jkan
 logo: /img/jkan.png
 
 domain: https://bolitto.github.io/jkan
