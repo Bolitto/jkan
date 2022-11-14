@@ -16,7 +16,7 @@ footer_description:
 baseurl:
 logo: /img/jkan.png
 
-domain: https://opendata.riik.ee
+domain: https://bolitto.github.io/jkan
 # Site theme
 jkan_theme: Default
 
